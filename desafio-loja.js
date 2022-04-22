@@ -11,6 +11,23 @@ let clienteLilit = [
     {produto: 'Tênis casual preto', valor: 120.0}, 
     {produto: 'meia calça transparente', valor: 30.0}]
 
+let clienteMaria = [
+    {produto: 'Bolsa pequena', valor: 49.0}, 
+    {produto: 'Calça preta', valor: 100.0}, 
+    {produto: 'Salto agulha 39', valor: 250.0},  
+    {produto: 'Calça jeans clara', valor: 130.0},  
+    {produto: 'Short verde canelado', valor: 80.0}, 
+    {produto: 'Jaqueta Jeans', valor: 300.0},  
+    {produto: 'meia calça transparente', valor: 30.0}]
+
+let clienteJoana = [
+    {produto: 'Bolsa pequena', valor: 49.0}, 
+    {produto: 'Tênis casual preto', valor: 120.0},  
+    {produto: 'Blusa preta gola alta', valor: 60.0}, 
+    {produto: 'Short verde canelado', valor: 80.0}, 
+    {produto: 'Jaqueta Jeans', valor: 300.0},  
+    {produto: 'Salto agulha 39', valor: 250.0}, ]
+
 let valorTotal = [] 
 let descontoAplicado = [] 
 
